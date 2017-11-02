@@ -1,2 +1,2 @@
 # ARMaze
-An AR-Maze created using Unity-Vuforia
+An AR-Maze app created using Unity-Vuforia
